@@ -1,0 +1,39 @@
+Perguntas sobre as narrativas não lineares apresentadas em aula:
+0. O seu jogo cumpre o formato proposto? (Mínimo 5min e Max 15min, apresentado em aula)
+- Sim, respeitando o limite de tempo proposto entre 8 a 10 minutos.
+
+1. Qual foi o processo de ideation?
+- Foi inspirado no jogo que gostava muito de jogar "Samurai Shodown", mas contando uma história diferente, onde envolve mistério e superpoderes.
+
+2. Referências? Jogos de twine? Narrativa? Outras refs?
+- Tutorial no site "Fabrica de Jogos".
+
+3. Por que escolheu esse tema? Nicho? Mercado?
+- Na verdade o primeiro tema que foi escolhido era "O pequeno mestre", mas no decorrer da história vi que precisa mudar e escolher um tema que gerasse no leitor uma curiosidade.
+
+4. Qual foi o processo de validação do jogo? Prototipou? Playtest?
+- Foi feito alguns playtest para checar se a história fazia sentido e se as estruturas as ligadas.
+
+5. Usou uma estrutura de narrativa? Qual?
+- Sim, a partir introdutória começo contando na breve história sobre a vida personagem principal, e seguida desenvolvo alguns fatos que ocorreram em sua infância, e logo depois as consequencias. 
+
+6. Qual é o “meaning” do jogo?
+- Tudo que herdamos tem um propósito, bastar buscarmos o verdadeiro significado.
+
+7. Sobre “Potential of Games”: Usou a “área cinza”? Por quê?
+- Não usei.
+
+8. Qual o “Emotional Peak”?
+- O trauma do personagem principal ao ver suas família assinadas sem saber o porquê.
+
+9. Quais “Emotional Peaks”? E “Reasons”?
+- Sim, para deixar o mistério no ar, gerando a curiosidade no leitor.
+
+10. Usou “foreshadowing”?
+- Sim, a outra parte da história onde irá acontecer a vigança.
+
+11. No seu jogo existe “Negative Space”?
+- Sim, ficou algumas na história sobre quem e o porquê aconteceu.
+
+12. Usou “Emotional Branch” Por quê?
+- Sim, quando o protagonista foi perdeu a família e saiu de casa.
